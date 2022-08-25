@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Imports/Add single-member static import" />
+    <ignoreAction name="Java/Other/Put arguments on one line" />
+  </component>
+</application>
